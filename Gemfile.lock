@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/paas-tech/just-the-docs.git
-  revision: 9db28fbf88aea7e6f1fb6d76cded36b73cd0a5bf
+  revision: 8ed91ef5b8ee47e7376f68872d7d5885dc5c2410
   specs:
     just-the-docs (0.10.0)
       jekyll (>= 3.8.5)
