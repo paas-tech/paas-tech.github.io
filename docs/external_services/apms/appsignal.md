@@ -1,7 +1,7 @@
 ---
-title: «AppSignal» آب سيجنال
+title: آب سجنال «AppSignal»
 parent: مراقبات أداء التطبيق
 nav_order: 1
 ---
 
-# «AppSignal» آب سيجنال
+# آب سجنال «AppSignal»

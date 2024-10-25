@@ -1,7 +1,7 @@
 ---
-title: «Mixpanel» مكس بانل
+title: مكس بانل «Mixpanel»
 parent: تحليل بيانات التطبيق
 nav_order: 2
 ---
 
-# «Mixpanel» مكس بانل
+# مكس بانل «Mixpanel»

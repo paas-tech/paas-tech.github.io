@@ -1,7 +1,7 @@
 ---
-title: «Postmark» بوست مارك
+title: بوست مارك «Postmark»
 parent: مخدمات الايميلات
 nav_order: 3
 ---
 
-# «Postmark» بوست مارك
+# بوست مارك «Postmark»

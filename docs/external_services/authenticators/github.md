@@ -1,7 +1,7 @@
 ---
-title: «Github» غيت هب
+title: غيت هب «Github»
 parent: المصادقات
 nav_order: 4
 ---
 
-# «Github» غيت هب
+# غيت هب «Github»

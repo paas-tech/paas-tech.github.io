@@ -1,7 +1,7 @@
 ---
-title: «Google Analytics» جوجل أنالتكس
+title: جوجل أنالتكس «Google Analytics»
 parent: تحليل بيانات التطبيق
 nav_order: 1
 ---
 
-# «Google Analytics» جوجل أنالتكس
+# جوجل أنالتكس «Google Analytics»

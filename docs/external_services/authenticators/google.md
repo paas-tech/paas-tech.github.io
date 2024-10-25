@@ -1,7 +1,7 @@
 ---
-title: «Google» جوجل
+title: جوجل «Google»
 parent: المصادقات
 nav_order: 1
 ---
 
-# «Google» جوجل
+# جوجل «Google»

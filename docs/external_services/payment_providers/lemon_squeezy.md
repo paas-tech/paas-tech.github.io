@@ -1,7 +1,7 @@
 ---
-title: «Lemon Squeezy» ليمون سكويزي
+title: ليمون سكويزي «Lemon Squeezy»
 parent: بوابات الدفع
 nav_order: 4
 ---
 
-# «Lemon Squeezy» ليمون سكويزي
+# ليمون سكويزي «Lemon Squeezy»

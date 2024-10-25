@@ -1,7 +1,7 @@
 ---
-title: «Gist» جست
+title: جست «Gist»
 parent: العلاقات بالعملاء
 nav_order: 1
 ---
 
-# «Gist» جست
+# جست «Gist»

@@ -1,7 +1,7 @@
 ---
-title: «SendGrid» سيند غريد
+title: سيند غريد «SendGrid»
 parent: مخدمات الايميلات
 nav_order: 1
 ---
 
-# «SendGrid» سيند غريد
+# سيند غريد «SendGrid»

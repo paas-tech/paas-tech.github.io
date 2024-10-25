@@ -1,7 +1,7 @@
 ---
-title: «Microsoft» ميكروسوفت
+title: ميكروسوفت «Microsoft»
 parent: المصادقات
 nav_order: 3
 ---
 
-# «Microsoft» ميكروسوفت
+# ميكروسوفت «Microsoft»

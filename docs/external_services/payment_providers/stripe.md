@@ -1,7 +1,7 @@
 ---
-title: «Stripe» سترايب
+title: سترايب «Stripe»
 parent: بوابات الدفع
 nav_order: 1
 ---
 
-# «Stripe» سترايب
+# سترايب «Stripe»

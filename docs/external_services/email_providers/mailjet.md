@@ -1,7 +1,7 @@
 ---
-title: «MailJet» ميل جت
+title: ميل جت «MailJet»
 parent: مخدمات الايميلات
 nav_order: 2
 ---
 
-# «MailJet» ميل جت
+# ميل جت «MailJet»

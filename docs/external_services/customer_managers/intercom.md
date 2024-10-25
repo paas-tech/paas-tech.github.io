@@ -1,7 +1,7 @@
 ---
-title: «Intercom» انتر كوم
+title: انتركوم «Intercom»
 parent: العلاقات بالعملاء
 nav_order: 2
 ---
 
-# «Intercom» انتر كوم
+# انتركوم «Intercom»
